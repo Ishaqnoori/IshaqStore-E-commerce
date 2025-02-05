@@ -1,4 +1,4 @@
-# IshaqStore-E-commerce
+# E-commerce
 Description
 ISHAQ'S STORE is a simple and elegant e-commerce website template built with HTML and CSS. This project is perfect for anyone looking to create an online store for showcasing and selling products. The template features a responsive design, a user-friendly interface, and a basic login form, making it easy to customize and expand according to your needs.
 Features
